@@ -1,0 +1,1 @@
+First actual project in The Odin Project.  Objective is to make the Google homepage, only visually, not functionally.  I feel like I have no idea how to even start this.
